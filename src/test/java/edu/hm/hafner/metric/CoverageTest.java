@@ -12,7 +12,7 @@ import nl.jqno.equalsverifier.EqualsVerifier;
 
 import static edu.hm.hafner.metric.Coverage.*;
 import static edu.hm.hafner.metric.assertions.Assertions.*;
-
+//test
 /**
  * Tests the class {@link Coverage}.
  *
